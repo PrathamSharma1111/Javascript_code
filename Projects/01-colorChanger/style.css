@@ -5,16 +5,21 @@ html {
   span {
     display: block;
   }
+  nav{
+    /* background-color: black; */
+    
+  }
   .canvas {
-    margin: 100px auto 100px;
-    width: 80%;
+    /* margin: 100px auto 100px; */
+    /* width: 80%; */
     text-align: center;
   }
   
   .button {
-    width: 100px;
-    height: 100px;
+    width: 40px;
+    height: 40px;
     border: solid black 2px;
+    border-radius: 50%;
     display: inline-block;
   }
   
